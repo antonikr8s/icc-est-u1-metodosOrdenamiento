@@ -6,7 +6,7 @@
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
 - **Estudiante:** Carlos Antonio Gordillo Tenemaza
-- **Fecha:** 30/02/2025
+- **Fecha:** 30/03/2025
 - **Profesor:** Ing. Pablo Torres
 
 ---
